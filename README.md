@@ -1,5 +1,8 @@
-# COS 201 – Computer Programming I (Week 3)
-
+Adetona Oluwatomiwa Samuel 
+25/18039
+Computer Science
+# COS 201 
+Computer Programming I (Week 3)
 This repository contains three Java programs:
 
 1. `SimpleCalculator.java` – performs addition, subtraction, multiplication and division.
